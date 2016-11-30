@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/InicioCorrer.unity
+  isLoaded: 1
+  isActive: 1

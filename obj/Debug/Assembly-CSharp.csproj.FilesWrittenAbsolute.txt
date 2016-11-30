@@ -1,0 +1,17 @@
+/Users/gilvan/IESBGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/gilvan/IESBGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/gilvan/IESBGame/obj/Debug/Assembly-CSharp.dll
+/Users/gilvan/IESBGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/gilvan/IESBGame/Temp/bin/Debug/UnityEngine.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/UnityEditor.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/gilvan/IESBGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/gilvan/IESBGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
